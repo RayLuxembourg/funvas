@@ -2,6 +2,8 @@
 
 ![](https://i.imgur.com/W7PVbQy.png)
 
+### To use Unsplash Browser, you must insert unsplash api key in the .env file/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
