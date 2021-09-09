@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Funvas
+
+![](https://i.imgur.com/W7PVbQy.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
